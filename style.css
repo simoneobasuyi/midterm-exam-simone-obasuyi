@@ -8,3 +8,6 @@
 body {
   background-color: #224766;
 }
+@@media (min-width 650px) {
+
+}
